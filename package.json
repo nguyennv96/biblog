@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nguyennv96/biblog/issues"
   },
-  "homepage": "https://github.com/nguyennv96/biblog#readme"
+  "homepage": "https://github.com/nguyennv96/biblog#readme",
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
 }
